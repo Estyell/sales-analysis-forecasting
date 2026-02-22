@@ -1,2 +1,1 @@
-# sales-analysis-forecasting
-Sales Data Analysis and Forecasting using Python
+# Sales_Forecasting_Analysis
